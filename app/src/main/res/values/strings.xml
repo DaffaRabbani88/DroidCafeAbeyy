@@ -65,9 +65,10 @@
     <string name="note_label_string">Note</string>
     <string name="city_label_text">City</string>
     <string-array name="cities">
-        <item>Jakarta</item>
         <item>Bandung</item>
-        <item>Cimahi</item>
-        <item>Kabupaten Bandung</item>
+        <item>Jakarta</item>
+        <item>Surabaya</item>
+        <item>Bali</item>
+        <item>Rumah Daffa</item>
     </string-array>
 </resources>
